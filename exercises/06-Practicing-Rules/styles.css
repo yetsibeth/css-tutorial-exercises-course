@@ -1,1 +1,27 @@
-/* add your styles here */
+body {
+	background-image: url(https://3000-teal-moose-dg67kb89.ws-us17.gitpod.io/.learn/assets/background-vertical.jpg?raw=true);
+	background-repeat: repeat-y;
+	font-family: "Times New Roman", Times, serif;
+	padding-left: 20px;
+}
+
+h1 {
+	font-family: "Courier New", Courier, monospace;
+	color: red;
+	text-align: center;
+}
+h2 {
+	text-decoration: underline;
+}
+#id1 {
+	background-color: rgba(255, 255, 255, 0.2);
+	padding: 5px 5px 5px 5px;
+}
+a {
+	color: blue;
+	text-decoration: underline;
+}
+a:hover {
+	color: green;
+	text-decoration: none;
+}
